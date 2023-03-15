@@ -41,7 +41,7 @@ If you use the code, please cite our paper:
 ## Demo Data
 
 * One of the real-world experimental data can be found in:
-https://data.mendeley.com/drafts/xr38s95sm9
+https://data.mendeley.com/datasets/xr38s95sm9/
 
 * Download it and unzip all the files into a folder named `<data folder>`.
 
