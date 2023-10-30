@@ -5,7 +5,13 @@
 If you use the code, please cite our paper:
 
 ```text
-
+@article{deng2023fusioncalib,
+  title={Fusioncalib: Automatic extrinsic parameters calibration based on road plane reconstruction for roadside integrated radar camera fusion sensors},
+  author={Deng, Jiayin and Hu, Zhiqun and Lu, Zhaoming and Wen, Xiangming},
+  journal={Pattern Recognition Letters},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
 
 ## Pipeline
