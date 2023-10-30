@@ -1,7 +1,5 @@
 # FusionCalib
 
-**!!!Note: The code will be delivered after the paper is accepted.**
-
 If you use the code, please cite our paper:
 
 ```text
