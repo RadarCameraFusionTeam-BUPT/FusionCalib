@@ -31,7 +31,7 @@ If you use the code, please cite our paper:
     cd FusionCalib
     ```
 
-* Create and activate virtual environment using anaconda.
+* Create and activate virtual environment using anaconda. (tested using python 3.8)
 
   **Note**: Change the `name` and `prefix` field in the `environment.yaml` file.
 
