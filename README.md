@@ -40,6 +40,12 @@ If you use the code, please cite our paper:
     conda activate FusionCalib
     ```
 
+    or install using pip:
+
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
 * Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
 
 ## Demo Data
